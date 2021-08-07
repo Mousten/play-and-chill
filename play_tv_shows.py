@@ -158,9 +158,7 @@ def main():
 
     # choose show_tv_index to True if you want to see TV shows & their indices
     tv_series_index(show_tv_index=True)
-
-    # Index 110: You Sn 1
-    # Index 26: Everybody Hates Chris
+    
     print("")
     try:
         series_index = int(input("Please enter TV Series Index: "))
